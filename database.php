@@ -1,5 +1,5 @@
 <?php
-sdfsdfsdfsdfsdfsdf
+
     private $host       ="";
     private $username   ="";
     private $password   ="";
